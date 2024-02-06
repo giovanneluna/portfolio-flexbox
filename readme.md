@@ -13,3 +13,7 @@ Este projeto foi desenvolvido para aperfeiçoar minhas habilidades utilizando fl
 ### Giovanne de Luna Araújo Filho
 
 ### Linkedin: https://www.linkedin.com/school/aluracursos/
+
+
+# Link do Projeto
+https://giovanneluna.github.io/portfolio-flexbox/
